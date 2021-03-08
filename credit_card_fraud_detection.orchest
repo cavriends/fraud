@@ -1,0 +1,11 @@
+{
+    "name": "Credit Card Fraud Detection",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {},
+    "uuid": "e26ac377-f6d3-4d4e-a05c-95f497c1c41d",
+    "version": "1.0.0"
+}
